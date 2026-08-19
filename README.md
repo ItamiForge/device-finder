@@ -2,6 +2,8 @@
 
 Cross-platform device discovery CLI and TUI for developers. Find iOS simulators, Android devices/emulators, and web containers instantly.
 
+> Catalog: [ItamiForge](https://itamiforge.github.io/itamiforge/docs/projects/#device-finder)
+
 ## Features
 
 - Detect iOS simulators via `xcrun simctl`

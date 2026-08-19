@@ -1,0 +1,14 @@
+catalog: true
+slug: device-finder
+title: Device Finder
+summary: Cross-platform CLI and TUI for finding iOS simulators, Android devices, and web containers.
+status: active
+category: cli
+featured: false
+visibility: public
+tags:
+  - rust
+  - cli
+  - tui
+  - devices
+install: cargo install --git https://github.com/ItamiForge/device-finder.git
